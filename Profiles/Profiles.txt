@@ -10,7 +10,7 @@ NAME OF THE STUDENT : VALLIGATLA SIREESHA
 lEARNING TRACK : Developer
 PROJECT NAME : Retail Management Application Using Salesforce - (DEV)
 TRAILHEAD PROFILE : https://www.salesforce.com/trailblazer/sireeshavalligatla
-DEVELOPER ORG USERNAME : valligatlasiri@gdcproject.com
+DEVELOPER ORG USERNAME : valligatlasireesha@gdcproject.com
 DEVELOPER ORG PASSWORD : Gayatri@123
 POSITION : Team Member
 
