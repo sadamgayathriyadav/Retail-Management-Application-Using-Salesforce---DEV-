@@ -1,7 +1,31 @@
-Name of the Student: Sadam Gayathri
-learning Track: Developer
-Project Name: Retail Management Application Using Salesforce - (DEV)
-Trailhead Profile: https://www.salesforce.com/trailblazer/sadamgayathri
-Developer Org Username: sadamgayatri5@gdcproject.com
-Developer Org Password: Gayatri@123
-Position: TeamLeader
+NAME OF THE STUDENT : SADAM GAYATHRI
+lEARNING TRACK : Developer
+PROJECT NAME : Retail Management Application Using Salesforce - (DEV)
+TRAILHEAD PROFILE : https://www.salesforce.com/trailblazer/sadamgayathri
+DEVELOPER ORG USERNAME : sadamgayatri5@gdcproject.com
+DEVELOPER ORG PASSWORD : Gayatri@123
+POSITION : Team Leader
+
+NAME OF THE STUDENT : VALLIGATLA SIREESHA
+lEARNING TRACK : Developer
+PROJECT NAME : Retail Management Application Using Salesforce - (DEV)
+TRAILHEAD PROFILE : https://www.salesforce.com/trailblazer/sireeshavalligatla
+DEVELOPER ORG USERNAME : valligatlasiri@gdcproject.com
+DEVELOPER ORG PASSWORD : Gayatri@123
+POSITION : Team Member
+
+NAME OF THE STUDENT : VADDAMANI SUNITHA
+lEARNING TRACK : Developer
+PROJECT NAME : Retail Management Application Using Salesforce - (DEV)
+TRAILHEAD PROFILE : https://www.salesforce.com/trailblazer/sunithavaddamani
+DEVELOPER ORG USERNAME : sunithavaddamani@gdcproject.com
+DEVELOPER ORG PASSWORD : Gayatri@123
+POSITION : Team Member
+
+NAME OF THE STUDENT : PANDITI REVATHI
+lEARNING TRACK : Developer
+PROJECT NAME : Retail Management Application Using Salesforce - (DEV)
+TRAILHEAD PROFILE : https://www.salesforce.com/trailblazer/revathipanditi
+DEVELOPER ORG USERNAME : panditirevathi7@gdcproject.com
+DEVELOPER ORG PASSWORD : Gayatri@123
+POSITION : Team Member
