@@ -19,5 +19,5 @@ lEARNING TRACK : Admin
 PROJECT NAME : Retail Management Application Using Salesforce - (DEV)
 TRAILHEAD PROFILE : https://www.salesforce.com/trailblazer/jbomidi
 DEVELOPER ORG USERNAME : jyothsnabomidi@gdcproject.com
-DEVELOPER ORG PASSWORD : Gayatri @123
+DEVELOPER ORG PASSWORD : Gayatri@123
 POSITION : Team Member
